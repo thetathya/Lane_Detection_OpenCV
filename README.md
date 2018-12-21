@@ -1,8 +1,9 @@
 # Lane Dection Algorithm
 
 ## Result
-<p align="center"><img src="https://github.com/kinetickansra/algorithms-in-C/blob/master/Hacktoberfest%202018.png"></p>
-<p align="center"><img src="https://github.com/kinetickansra/algorithms-in-C/blob/master/Hacktoberfest%202018.png"></p>
+
+<p align="center"><img src="https://github.com/thetathya/Lane_Detection_OpenCV/blob/master/Test/test_image.jpg">Before</p>
+<p align="center"><img src="https://github.com/thetathya/Lane_Detection_OpenCV/blob/master/Output/output.jpg">After</p>
 
 ## How to use?
 - Install OpenCV `pip install opencv-python` and Numpy `pip install numpy`
